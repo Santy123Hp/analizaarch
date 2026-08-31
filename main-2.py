@@ -14,7 +14,7 @@ VERSION = "0.3"
 CONFIG_FILE = os.path.join(os.path.expanduser("~"), ".analizaarch_config.json")
 VT_APIKEY_URL = "https://www.virustotal.com/gui/my-apikey"
 VT_API_URL = "https://www.virustotal.com/api/v3/files/{hash}"
-DONACION_URL = "https://github.com/TU-USUARIO/analizaarch"
+DONACION_URL = "https://github.com/Santy123Hp/analizaarch?tab=readme-ov-file"
 
 ICONO_B64 = "iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAACZklEQVR4nO2bPU4DMRCFH4h+b5AjUKSgokmfu+QsuQt9GioKihwhN8gJoEBB1sb2zr+9ij8JiSTs2u/N2PGaMTAYDAYNmTbvPy3bf2rRaE309fIZ2qfQxlLh0+bt7vPr5Sv5PcYI90bm0c4Jn5Ma8ffazwy3Gy9Fm4p3VpjeUBJtKl5Zob6JVvS03eP6/cG6xtIM8YXaFJ+2+7v3uEYA+iHCusAi2lSisoL0Rx7RpuKdFcUPI6NNxSMrFg3oQfgcqRE5A14sOhQhutSeZIikqAyIFl7rg9QItgE9iM4hzYpnj854cj7uTO+3KgNu4s/HnZkRqzEgJ9jCiNUYUOL1cFJdvwoDSlHWigdWYID1pDenawNq4i2iD3RsQIR4oFMDosQDnRpQwlo80KEBnjN+jq4M8J7xc7gZwBUTOe5TzA1Il6dUE1qJBwQGlB41S+tyTVpLxHP3BYoG3LaP5vtqJaSR8p70atthgHAIlFwudbok0nrSk+wKVQ3gZkGNudiIcb8UfUAxCXKzAABpcpSKl+4JLhogyQKKCdzruFCiDyi/Bmuuc8VoxGu2xkkGSOcCqijr73pq9AGDhZD2HxOt2ycb4JUFLaMPGC2Fl6JwE/l6OP3/pO97tUsh7GlwLtZ7jU+FZUBtGETPBbn2uOkPdLYf0AL+02AHWWAVfWBkgL5KrFRBElkiI40+YFQhkiPtbHSRFAdVoSS3jsijTE4TfcAxA3IsZUWLZbVZqay0LlhSKntDG32gg1phCV3UCuewKpEv4VE673JewDIrvA9PjBMjXjfO8ZBnhnL0dGqsOa3PDQ4GD84vttWG54T+OmwAAAAASUVORK5CYII="
 
