@@ -3,9 +3,13 @@ Herramienta de escritorio en Python que usa la API de VirusTotal para analizar a
 
 ## Caracterìsticas
 - Escanea archivos individuales usando la base de datos de VirusTotal
+- Busca por hash SHA-256 sin necesidad de tener el archivo
+- Analiza URLs además de archivos
+- Arrastrar y soltar, o clic derecho → "Analizar con AnalizaArch"
+- Minimizable a la bandeja del sistema
 - Modo claro y oscuro, con tamaño de texto ajustable
-- Opciòn de eliminar archivos detectados como amenaza, con confirmaciòn
-- Historial de escaneos de la sesiòn
+- Opción de eliminar archivos detectados como amenaza, con confirmación
+- Historial de escaneos de la sesión, con exportar/copiar informe
 - No requiere instalar un antivirus completo
 
 ## Descargas
