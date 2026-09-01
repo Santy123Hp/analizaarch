@@ -13,7 +13,7 @@ Herramienta de escritorio en Python que usa la API de VirusTotal para analizar a
 - No requiere instalar un antivirus completo
 
 ## Descargas
-- **Windows:** disponible en https://github.com/Santy123Hp/analizaarch/releases/tag/v0.3
+- **Windows:** disponible en https://github.com/Santy123Hp/analizaarch/releases/tag/v0.4
 - **Linux** en desarrollo, pròximamente disponible
 
 ## ¿Te sirvió AnalizaArch?
